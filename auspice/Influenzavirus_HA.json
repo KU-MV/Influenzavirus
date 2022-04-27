@@ -1,6 +1,6 @@
 {
   "meta": {
-    "build_url": "https://github.com/modoree/ifz",
+    "build_url": "https://nextstrain.org/community/KU-MV/Influenzavirus/HA",
     "colorings": [
       {
         "key": "gt",
@@ -187,7 +187,7 @@
     "maintainers": [
       {
         "name": "Man-Seong Park (Korea University)",
-        "url": "http://github.com/reyus2"
+        "url": "https://nextstrain.org/community/KU-MV/Influenzavirus/HA"
       }
     ],
     "panels": [
@@ -195,8 +195,8 @@
       "map",
       "entropy"
     ],
-    "title": "INFLUENZA HA",
-    "updated": "2022-03-03"
+    "title": "Influenzavirus HA gene",
+    "updated": "2022-04-27"
   },
   "tree": {
     "branch_attrs": {
